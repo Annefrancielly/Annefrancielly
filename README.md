@@ -5,7 +5,6 @@
 💻 **`Desenvolvedora Back-end`** em formação, explorando tecnologias como **Nest.js, React, TypeScript e Java**. Atualmente me aprofundando em **C# .NET**.  
 📚 Estudante de **Ciência da Computação**.  
 🎮 **Apaixonada por jogos** e entusiasta da **Unreal Engine**.  
-🥋 Atleta de **Kickboxing** nas horas vagas.  
 
   <p align="left">
     <a href="https://www.linkedin.com/in/annefranciellysiqueira/" target="_blank">
